@@ -1,9 +1,9 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 99,
-    "major": 4,
-    "minor": 0,
+    "build": 224,
+    "major": 5,
+    "minor": 5,
     "revision": 0
   },
   "properties": {
@@ -18,7 +18,6 @@
     "scaleMode": "linear",
     "sizeOnStartupMode": "adaptWidth",
     "templateSlug": "",
-    "useExternalSourceFiles": false,
     "version": "1.0.0",
     "name": "Brincálculo 2.0",
     "description": "",
@@ -71,7 +70,6 @@
   "resources": {
     "resources": [
       {
-        "alwaysLoaded": false,
         "file": "casa, loja e escola 2.png",
         "kind": "image",
         "metadata": "",
@@ -80,7 +78,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "interior sala de aula 2.png",
         "kind": "image",
         "metadata": "",
@@ -89,7 +86,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "interior casa 2.png",
         "kind": "image",
         "metadata": "",
@@ -98,7 +94,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "interior bodega 2.png",
         "kind": "image",
         "metadata": "",
@@ -107,7 +102,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "iniciar.jpg",
         "kind": "image",
         "metadata": "",
@@ -116,7 +110,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "iniciar2.jpg",
         "kind": "image",
         "metadata": "",
@@ -125,7 +118,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "iniciar-removebg-preview.png",
         "kind": "image",
         "metadata": "",
@@ -134,7 +126,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "ask.png",
         "kind": "image",
         "metadata": "",
@@ -143,7 +134,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "avancar.png",
         "kind": "image",
         "metadata": "",
@@ -152,7 +142,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "voltar.png",
         "kind": "image",
         "metadata": "",
@@ -161,7 +150,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "vazio.jpg",
         "kind": "image",
         "metadata": "",
@@ -170,7 +158,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "vazio2.jpg",
         "kind": "image",
         "metadata": "",
@@ -179,7 +166,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "tião.jpg",
         "kind": "image",
         "metadata": "",
@@ -188,7 +174,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "casa, loja e escola3.png",
         "kind": "image",
         "metadata": "",
@@ -197,7 +182,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "mesa.png",
         "kind": "image",
         "metadata": "",
@@ -206,7 +190,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "home.png",
         "kind": "image",
         "metadata": "",
@@ -215,7 +198,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "criança1-removebg-preview.png",
         "kind": "image",
         "metadata": "",
@@ -224,7 +206,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "criança2-removebg-preview.png",
         "kind": "image",
         "metadata": "",
@@ -233,7 +214,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "criança3-removebg-preview.png",
         "kind": "image",
         "metadata": "",
@@ -242,13 +222,20 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "criança4-removebg-preview.png",
         "kind": "image",
         "metadata": "",
         "name": "criança4-removebg-preview.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "file": "tião-removebg-preview.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tião-removebg-preview.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -2341,7 +2328,18 @@
                   ]
                 }
               ],
-              "actions": []
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Personagem-Apresentação\"",
+                    ""
+                  ]
+                }
+              ]
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -2356,7 +2354,18 @@
                   ]
                 }
               ],
-              "actions": []
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Personagem-Apresentação\"",
+                    ""
+                  ]
+                }
+              ]
             }
           ]
         }
@@ -4300,15 +4309,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 1.016260162601626,
-          "height": 375,
+          "depth": 1,
+          "height": 407,
           "keepRatio": true,
           "layer": "",
           "name": "Tiao",
           "persistentUuid": "0858af6b-65fd-4af4-8472-7b3ca7d9b645",
-          "width": 375,
-          "x": 280,
-          "y": 109,
+          "width": 354,
+          "x": 281,
+          "y": 114,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -4430,7 +4439,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "tião.jpg",
+                      "image": "tião-removebg-preview.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4446,20 +4455,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 150,
+                            "y": 17
                           },
                           {
-                            "x": 2048,
-                            "y": 0
+                            "x": 352,
+                            "y": 17
                           },
                           {
-                            "x": 2048,
-                            "y": 2048
+                            "x": 352,
+                            "y": 485
                           },
                           {
-                            "x": 0,
-                            "y": 2048
+                            "x": 150,
+                            "y": 485
                           }
                         ]
                       ]
@@ -5559,6 +5568,5 @@
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [],
-  "externalLayouts": [],
-  "externalSourceFiles": []
+  "externalLayouts": []
 }

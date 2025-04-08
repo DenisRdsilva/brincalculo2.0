@@ -236,6 +236,182 @@
         "name": "tião-removebg-preview.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "criança1-removebg-preview2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "criança1-removebg-preview2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "criança3-removebg-preview2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "criança3-removebg-preview2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "criança4-removebg-preview2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "criança4-removebg-preview2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "balcao-removebg-preview.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "balcao-removebg-preview.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "casa, loja e escola corrigido.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "casa, loja e escola corrigido.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "casa, loja e escola corrigido2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "casa, loja e escola corrigido2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "carro_azul_claro.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carro_azul_claro.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "carro_azul_escuro.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carro_azul_escuro.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "carro_roxo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carro_roxo.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "carro_vermelho.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "carro_vermelho.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "bola_gude_azul.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bola_gude_azul.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "bola_gude_azul2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bola_gude_azul2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "bola_gude_lilaz.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bola_gude_lilaz.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "bola_gude_verde.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bola_gude_verde.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "boneca_azul.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "boneca_azul.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "boneca_roxa.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "boneca_roxa.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "bonreca_amarela.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bonreca_amarela.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "estante-removebg-preview.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "estante-removebg-preview.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "pipa_verde_rosa.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pipa_verde_rosa.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "pipa_verde_amarela.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pipa_verde_amarela.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "pipa_azul_vermelha.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pipa_azul_vermelha.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "casa_fachada_no_background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "casa_fachada_no_background.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -275,7 +451,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "casa, loja e escola 2.png",
+                  "image": "casa, loja e escola corrigido2.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -455,7 +631,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "casa, loja e escola3.png",
+                  "image": "casa, loja e escola corrigido.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -494,6 +670,252 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "personagem1",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "criança1-removebg-preview2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 1
+                      },
+                      {
+                        "x": 161,
+                        "y": 1
+                      },
+                      {
+                        "x": 161,
+                        "y": 613
+                      },
+                      {
+                        "x": 0,
+                        "y": 613
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "personagem2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "criança2-removebg-preview.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 258
+                      },
+                      {
+                        "x": 160,
+                        "y": 258
+                      },
+                      {
+                        "x": 160,
+                        "y": 866
+                      },
+                      {
+                        "x": 6,
+                        "y": 866
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "personagem3",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "criança3-removebg-preview2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 3,
+                        "y": 7
+                      },
+                      {
+                        "x": 175,
+                        "y": 7
+                      },
+                      {
+                        "x": 175,
+                        "y": 604
+                      },
+                      {
+                        "x": 3,
+                        "y": 604
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "personagem4",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "criança4-removebg-preview2.png",
+                  "points": [
+                    {
+                      "name": "Point",
+                      "x": 0,
+                      "y": 0
+                    }
+                  ],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": -2,
+                    "y": 2.5
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": -0.5,
+                    "y": 218
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8.5,
+                        "y": 249.5
+                      },
+                      {
+                        "x": 142,
+                        "y": 249.5
+                      },
+                      {
+                        "x": 148,
+                        "y": 867
+                      },
+                      {
+                        "x": 0,
+                        "y": 867
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -510,6 +932,18 @@
       },
       {
         "objectName": "botaoVoltar"
+      },
+      {
+        "objectName": "personagem1"
+      },
+      {
+        "objectName": "personagem2"
+      },
+      {
+        "objectName": "personagem3"
+      },
+      {
+        "objectName": "personagem4"
       }
     ]
   },
@@ -577,13 +1011,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 600,
+          "height": 800,
           "layer": "",
           "name": "Cidade_desfocado",
           "persistentUuid": "54b3e9c8-1c10-4a1d-bc31-3f78ccc2b034",
-          "width": 600,
-          "x": 100,
-          "y": 0,
+          "width": 800,
+          "x": 0,
+          "y": -100,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -966,7 +1400,7 @@
           "name": "botaoVoltar",
           "persistentUuid": "273c0d5f-094c-4451-b76a-f393661b30f7",
           "width": 80,
-          "x": 130,
+          "x": 30,
           "y": 460,
           "zOrder": 3,
           "numberProperties": [],
@@ -1155,14 +1589,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 600,
+          "height": 800,
           "keepRatio": true,
           "layer": "",
           "name": "Cidade_desfocado",
           "persistentUuid": "fe69ffd3-450e-4def-8f4b-d2c943391858",
-          "width": 600,
-          "x": 100,
-          "y": 0,
+          "width": 800,
+          "x": 0,
+          "y": -100,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -1178,7 +1612,7 @@
           "name": "botaoAvancar",
           "persistentUuid": "92e18d3d-170f-4b6f-b040-9f371fcb8204",
           "width": 80,
-          "x": 590,
+          "x": 690,
           "y": 460,
           "zOrder": 2,
           "numberProperties": [],
@@ -1195,7 +1629,7 @@
           "name": "botaoVoltar",
           "persistentUuid": "8c9754c3-3428-4488-b5f9-afda3cdc36ec",
           "width": 80,
-          "x": 130,
+          "x": 30,
           "y": 460,
           "zOrder": 3,
           "numberProperties": [],
@@ -1205,15 +1639,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 1,
-          "height": 622,
+          "depth": 1.139449541284404,
+          "height": 425.5,
           "keepRatio": true,
           "layer": "",
           "name": "personagem1",
           "persistentUuid": "c8ffcf6f-56c4-4fe2-b9ae-eab724ca0e26",
-          "width": 109,
-          "x": 276,
-          "y": -75,
+          "width": 115,
+          "x": 135,
+          "y": 90,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -1222,15 +1656,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 1,
-          "height": 624,
+          "depth": 0.9627906976744187,
+          "height": 425.5,
           "keepRatio": true,
           "layer": "",
           "name": "personagem2",
           "persistentUuid": "e5750c21-7c85-48f9-a909-0a37243e1eec",
-          "width": 129,
-          "x": 136,
-          "y": -79,
+          "width": 115,
+          "x": 273,
+          "y": 90,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -1239,15 +1673,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 1,
-          "height": 606,
+          "depth": 1.1500000000000001,
+          "height": 419.75,
           "keepRatio": true,
           "layer": "",
           "name": "personagem3",
           "persistentUuid": "0a910c2c-64ee-4b67-aa1d-faa3a23a95b8",
-          "width": 108,
-          "x": 413,
-          "y": -61,
+          "width": 115,
+          "x": 410,
+          "y": 100,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -1256,285 +1690,24 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 1,
-          "height": 642,
+          "depth": 1.1942307692307694,
+          "height": 425.5,
           "keepRatio": true,
           "layer": "",
           "name": "personagem4",
           "persistentUuid": "8a8c3c44-5226-4438-a00b-8dd382ff39e1",
-          "width": 104,
-          "x": 546,
-          "y": -90,
+          "width": 115,
+          "x": 545,
+          "y": 90,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         }
       ],
-      "objects": [
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "personagem1",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "criança1-removebg-preview.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 255
-                          },
-                          {
-                            "x": 161,
-                            "y": 255
-                          },
-                          {
-                            "x": 161,
-                            "y": 867
-                          },
-                          {
-                            "x": 0,
-                            "y": 867
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "personagem2",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "criança2-removebg-preview.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 6,
-                            "y": 258
-                          },
-                          {
-                            "x": 160,
-                            "y": 258
-                          },
-                          {
-                            "x": 160,
-                            "y": 866
-                          },
-                          {
-                            "x": 6,
-                            "y": 866
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "personagem3",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "criança3-removebg-preview.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 270
-                          },
-                          {
-                            "x": 175,
-                            "y": 270
-                          },
-                          {
-                            "x": 175,
-                            "y": 867
-                          },
-                          {
-                            "x": 3,
-                            "y": 867
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
-          "name": "personagem4",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "criança4-removebg-preview.png",
-                      "points": [
-                        {
-                          "name": "Point",
-                          "x": 0,
-                          "y": 0
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": -2,
-                        "y": 2.5
-                      },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": -0.5,
-                        "y": 218
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 8.5,
-                            "y": 249.5
-                          },
-                          {
-                            "x": 142,
-                            "y": 249.5
-                          },
-                          {
-                            "x": 148,
-                            "y": 867
-                          },
-                          {
-                            "x": 0,
-                            "y": 867
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ],
+      "objects": [],
       "objectsFolderStructure": {
-        "folderName": "__ROOT",
-        "children": [
-          {
-            "objectName": "personagem1"
-          },
-          {
-            "objectName": "personagem2"
-          },
-          {
-            "objectName": "personagem3"
-          },
-          {
-            "objectName": "personagem4"
-          }
-        ]
+        "folderName": "__ROOT"
       },
       "events": [
         {
@@ -2473,14 +2646,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 600,
+          "height": 800,
           "keepRatio": true,
           "layer": "",
           "name": "Cidade_desfocado",
           "persistentUuid": "22d3b4be-6c56-45ad-92b9-0dcf963dbd51",
-          "width": 600,
-          "x": 100,
-          "y": 0,
+          "width": 800,
+          "x": 0,
+          "y": -100,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -2496,7 +2669,7 @@
           "name": "botaoVoltar",
           "persistentUuid": "2c4e81f0-aa53-4af4-83b0-c6325b09717c",
           "width": 80,
-          "x": 130,
+          "x": 30,
           "y": 460,
           "zOrder": 3,
           "numberProperties": [],
@@ -2513,7 +2686,7 @@
           "name": "botaoAvancar",
           "persistentUuid": "bd83ae6f-2463-4cb5-9dd4-121b2de6c1f7",
           "width": 80,
-          "x": 590,
+          "x": 690,
           "y": 460,
           "zOrder": 2,
           "numberProperties": [],
@@ -2546,6 +2719,122 @@
               "parameters": [
                 "",
                 "\"contador1\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "menina1",
+                "True",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "personagem2",
+                "310",
+                "90",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "menino1",
+                "True",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "personagem1",
+                "310",
+                "90",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "menina2",
+                "True",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "personagem3",
+                "310",
+                "90",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "menino2",
+                "True",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "personagem4",
+                "310",
+                "90",
+                ""
               ]
             }
           ]
@@ -2756,7 +3045,7 @@
           "name": "botaoVoltar",
           "persistentUuid": "cdcf3617-e5ae-4660-a031-8dc809a5d557",
           "width": 80,
-          "x": 130,
+          "x": 30,
           "y": 460,
           "zOrder": 3,
           "numberProperties": [],
@@ -2773,7 +3062,7 @@
           "name": "botaoAvancar",
           "persistentUuid": "3b9113f2-7835-46d3-b3e0-f2ab02c674c8",
           "width": 80,
-          "x": 590,
+          "x": 690,
           "y": 460,
           "zOrder": 2,
           "numberProperties": [],
@@ -2784,14 +3073,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 600,
+          "height": 800,
           "keepRatio": true,
           "layer": "",
           "name": "cidade_normal",
           "persistentUuid": "ce0aaba0-e780-4732-8900-60c6b90eb067",
-          "width": 600,
-          "x": 100,
-          "y": 0,
+          "width": 800,
+          "x": 0,
+          "y": -100,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -3032,14 +3321,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 600,
+          "height": 800,
           "keepRatio": true,
           "layer": "",
           "name": "SaladeCasa",
           "persistentUuid": "deff6b3d-0945-44bd-934f-8445d6afd373",
-          "width": 600,
-          "x": 100,
-          "y": 0,
+          "width": 800,
+          "x": 0,
+          "y": -100,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -3055,7 +3344,7 @@
           "name": "botaoVoltar",
           "persistentUuid": "e88263fc-45ac-4cf7-af4c-cddadadb0d1a",
           "width": 80,
-          "x": 130,
+          "x": 30,
           "y": 460,
           "zOrder": 3,
           "numberProperties": [],
@@ -3072,7 +3361,7 @@
           "name": "botaoAvancar",
           "persistentUuid": "ad46ad84-44f1-4450-bc65-caa13a58912f",
           "width": 80,
-          "x": 590,
+          "x": 690,
           "y": 460,
           "zOrder": 2,
           "numberProperties": [],
@@ -3386,7 +3675,7 @@
           "name": "botaoVoltar",
           "persistentUuid": "bcde0ce4-3241-4ed2-9c3b-33f4d30e72a0",
           "width": 80,
-          "x": 130,
+          "x": 30,
           "y": 460,
           "zOrder": 3,
           "numberProperties": [],
@@ -3403,7 +3692,7 @@
           "name": "botaoAvancar",
           "persistentUuid": "a7cc11ce-8bdb-4e80-861c-6cf3ef02dad8",
           "width": 80,
-          "x": 590,
+          "x": 690,
           "y": 460,
           "zOrder": 2,
           "numberProperties": [],
@@ -3414,14 +3703,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 600,
+          "height": 800,
           "keepRatio": true,
           "layer": "",
           "name": "mesa",
           "persistentUuid": "666368de-b4ea-4481-bef2-b8f2cf2b8b16",
-          "width": 600,
-          "x": 100,
-          "y": 0,
+          "width": 800,
+          "x": 0,
+          "y": -100,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -3718,7 +4007,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.875,
+        "zoomFactor": 0.8464571843450945,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -3734,7 +4023,7 @@
           "name": "botaoVoltar",
           "persistentUuid": "077423bb-2355-4ba3-a7d5-be9847999a94",
           "width": 80,
-          "x": 130,
+          "x": 30,
           "y": 460,
           "zOrder": 3,
           "numberProperties": [],
@@ -3751,17 +4040,168 @@
           "name": "botaoAvancar",
           "persistentUuid": "3152fb77-bae7-498b-b76c-7792084620e4",
           "width": 80,
-          "x": 590,
+          "x": 690,
           "y": 460,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1.2461538461538462,
+          "height": 444.00000000000006,
+          "keepRatio": true,
+          "layer": "",
+          "name": "personagem4",
+          "persistentUuid": "1a3bc4a5-946a-495d-9abc-b94319017d7e",
+          "width": 120,
+          "x": 345,
+          "y": 120,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1.2,
+          "height": 438,
+          "keepRatio": true,
+          "layer": "",
+          "name": "personagem3",
+          "persistentUuid": "030f8bc5-416f-4fe0-8cfd-ed463cba3c8d",
+          "width": 120,
+          "x": 345,
+          "y": 120,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1.0046511627906978,
+          "height": 444.00000000000006,
+          "keepRatio": true,
+          "layer": "",
+          "name": "personagem2",
+          "persistentUuid": "bae1525a-cb18-4b60-9b5a-1659cc29f2ab",
+          "width": 120,
+          "x": 345,
+          "y": 120,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1.1889908256880735,
+          "height": 444.00000000000006,
+          "keepRatio": true,
+          "layer": "",
+          "name": "personagem1",
+          "persistentUuid": "7affe9cb-161a-4162-9a57-6c3e18592cec",
+          "width": 120,
+          "x": 345,
+          "y": 120,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 800,
+          "keepRatio": true,
+          "layer": "",
+          "name": "casa",
+          "persistentUuid": "4b760cd7-655f-4862-853a-ec1a0c6637e4",
+          "width": 800,
+          "x": -70,
+          "y": -100,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
-      "objects": [],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "casa",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "casa_fachada_no_background.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 42,
+                            "y": 104
+                          },
+                          {
+                            "x": 494,
+                            "y": 104
+                          },
+                          {
+                            "x": 494,
+                            "y": 411
+                          },
+                          {
+                            "x": 42,
+                            "y": 411
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
       "objectsFolderStructure": {
-        "folderName": "__ROOT"
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "casa"
+          }
+        ]
       },
       "events": [
         {
@@ -3784,6 +4224,170 @@
               "parameters": [
                 "",
                 "\"contador1\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "menina1",
+                "True",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "personagem1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "personagem3"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "personagem4"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "menino1",
+                "True",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "personagem2"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "personagem3"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "personagem4"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "menina2",
+                "True",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "personagem1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "personagem2"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "personagem4"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "menino2",
+                "True",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "personagem1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "personagem2"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "personagem3"
               ]
             }
           ]
@@ -3999,7 +4603,7 @@
           "name": "botaoAvancar",
           "persistentUuid": "5d5acb46-56f2-4b60-b22c-4dfc97e09b26",
           "width": 80,
-          "x": 590,
+          "x": 690,
           "y": 460,
           "zOrder": 2,
           "numberProperties": [],
@@ -4016,7 +4620,7 @@
           "name": "botaoVoltar",
           "persistentUuid": "4bcaf67b-ec17-428e-90b5-bb83f9632980",
           "width": 80,
-          "x": 130,
+          "x": 30,
           "y": 460,
           "zOrder": 3,
           "numberProperties": [],
@@ -4027,14 +4631,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 600,
+          "height": 800,
           "keepRatio": true,
           "layer": "",
           "name": "cidade_normal",
           "persistentUuid": "39ab7624-4f6d-430d-aa32-bcc5a4b596af",
-          "width": 600,
-          "x": 100,
-          "y": 0,
+          "width": 800,
+          "x": 0,
+          "y": -100,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -4283,7 +4887,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.9665341999982187,
+        "zoomFactor": 0.717116487265657,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -4293,15 +4897,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 600,
+          "height": 800,
           "keepRatio": true,
           "layer": "",
           "name": "Bodega",
           "persistentUuid": "512f1f35-7e3b-4c53-8c87-809bb2a650e8",
-          "width": 600,
-          "x": 100,
-          "y": 0,
-          "zOrder": 1,
+          "width": 800,
+          "x": 0,
+          "y": -100,
+          "zOrder": -4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4318,7 +4922,7 @@
           "width": 358,
           "x": 281,
           "y": 114,
-          "zOrder": 2,
+          "zOrder": -1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4333,7 +4937,7 @@
           "name": "botaoVoltar",
           "persistentUuid": "069c9107-b987-48fc-b949-57262540eeb5",
           "width": 80,
-          "x": 130,
+          "x": 30,
           "y": 460,
           "zOrder": 3,
           "numberProperties": [],
@@ -4350,9 +4954,247 @@
           "name": "botaoAvancar",
           "persistentUuid": "2bb45c5c-4c18-466a-8d1f-13b0bcdf303c",
           "width": 80,
-          "x": 590,
+          "x": 690,
           "y": 460,
           "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1.3225806451612905,
+          "height": 892.741935483871,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Balcão",
+          "persistentUuid": "63e00c2f-8a5c-4560-b488-35ad1adea0f0",
+          "width": 820,
+          "x": -15,
+          "y": -152,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 105,
+          "keepRatio": true,
+          "layer": "",
+          "name": "carro1",
+          "persistentUuid": "5c151b37-a556-4549-978a-7c30d6b8eb44",
+          "width": 105,
+          "x": 7,
+          "y": 224,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 90,
+          "keepRatio": true,
+          "layer": "",
+          "name": "carro2",
+          "persistentUuid": "2504c100-8ac0-4bea-ba07-6f4eea585771",
+          "width": 90,
+          "x": 85,
+          "y": 225,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 75,
+          "keepRatio": true,
+          "layer": "",
+          "name": "carro3",
+          "persistentUuid": "76cd984c-c763-44d7-9d55-fb0daae06a11",
+          "width": 75,
+          "x": 153,
+          "y": 231,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1.09375,
+          "height": 73.28125,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bolagude3",
+          "persistentUuid": "88f1bdee-bf73-4246-95fc-f1a34fe3c7d8",
+          "width": 70,
+          "x": 27,
+          "y": 394,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1.1818181818181819,
+          "height": 67.36363636363637,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bolagude1",
+          "persistentUuid": "969f92ca-037e-4693-bab7-0c6b2ab7b1d1",
+          "width": 65,
+          "x": 96,
+          "y": 380,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1.25,
+          "height": 62.5,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bolagude2",
+          "persistentUuid": "011564eb-131c-4add-9140-59c977e0fcb8",
+          "width": 60,
+          "x": 157,
+          "y": 370,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 73,
+          "keepRatio": true,
+          "layer": "",
+          "name": "boneca1",
+          "persistentUuid": "72980998-2c86-4142-9928-55206f2be532",
+          "width": 73,
+          "x": 20,
+          "y": 148,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 65,
+          "keepRatio": true,
+          "layer": "",
+          "name": "boneca2",
+          "persistentUuid": "d719fc9c-754d-4aff-8d2f-116e81f080b1",
+          "width": 65,
+          "x": 92,
+          "y": 156,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 60,
+          "keepRatio": true,
+          "layer": "",
+          "name": "boneca3",
+          "persistentUuid": "4568584e-7ec1-4da8-98c0-b08dde2e4517",
+          "width": 60,
+          "x": 155,
+          "y": 161,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 878,
+          "keepRatio": true,
+          "layer": "",
+          "name": "estante",
+          "persistentUuid": "b87d4092-5d7c-449c-90b9-264f686e29b5",
+          "width": 1062,
+          "x": -63,
+          "y": -150,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 89.99999999999999,
+          "keepRatio": true,
+          "layer": "",
+          "name": "pipa1",
+          "persistentUuid": "34712c08-86fe-403d-9733-223fc91e9ffa",
+          "width": 90,
+          "x": 16,
+          "y": 308,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 80,
+          "keepRatio": true,
+          "layer": "",
+          "name": "pipa2",
+          "persistentUuid": "14d7c4dd-b38e-4ab2-8d45-0a9a5941f897",
+          "width": 80,
+          "x": 86,
+          "y": 302,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 70,
+          "keepRatio": true,
+          "layer": "",
+          "name": "pipa3",
+          "persistentUuid": "915fafd0-e63a-4b0d-b024-a262f4af2c32",
+          "width": 70,
+          "x": 148,
+          "y": 299,
+          "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4478,6 +5320,906 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Balcão",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "balcao-removebg-preview.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 163,
+                            "y": 209
+                          },
+                          {
+                            "x": 486,
+                            "y": 209
+                          },
+                          {
+                            "x": 486,
+                            "y": 437
+                          },
+                          {
+                            "x": 163,
+                            "y": 437
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "carro1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "carro_azul_claro.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 84,
+                            "y": 187
+                          },
+                          {
+                            "x": 414,
+                            "y": 187
+                          },
+                          {
+                            "x": 414,
+                            "y": 377
+                          },
+                          {
+                            "x": 84,
+                            "y": 377
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "carro2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "carro_azul_escuro.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 85,
+                            "y": 187
+                          },
+                          {
+                            "x": 414,
+                            "y": 187
+                          },
+                          {
+                            "x": 414,
+                            "y": 376
+                          },
+                          {
+                            "x": 85,
+                            "y": 376
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "carro3",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "carro_roxo.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 85,
+                            "y": 186
+                          },
+                          {
+                            "x": 414,
+                            "y": 186
+                          },
+                          {
+                            "x": 414,
+                            "y": 378
+                          },
+                          {
+                            "x": 85,
+                            "y": 378
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "carro4",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "carro_vermelho.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 84,
+                            "y": 186
+                          },
+                          {
+                            "x": 414,
+                            "y": 186
+                          },
+                          {
+                            "x": 414,
+                            "y": 376
+                          },
+                          {
+                            "x": 84,
+                            "y": 376
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "bolagude1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "bola_gude_verde.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 45,
+                            "y": 122
+                          },
+                          {
+                            "x": 460,
+                            "y": 122
+                          },
+                          {
+                            "x": 460,
+                            "y": 420
+                          },
+                          {
+                            "x": 45,
+                            "y": 420
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "bolagude2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "bola_gude_azul2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 43,
+                            "y": 122
+                          },
+                          {
+                            "x": 462,
+                            "y": 122
+                          },
+                          {
+                            "x": 462,
+                            "y": 420
+                          },
+                          {
+                            "x": 43,
+                            "y": 420
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "bolagude3",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "bola_gude_lilaz.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 44,
+                            "y": 120
+                          },
+                          {
+                            "x": 462,
+                            "y": 120
+                          },
+                          {
+                            "x": 462,
+                            "y": 420
+                          },
+                          {
+                            "x": 44,
+                            "y": 420
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "boneca1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "boneca_azul.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 57,
+                            "y": 31
+                          },
+                          {
+                            "x": 439,
+                            "y": 31
+                          },
+                          {
+                            "x": 439,
+                            "y": 478
+                          },
+                          {
+                            "x": 57,
+                            "y": 478
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "boneca2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "boneca_roxa.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 56,
+                            "y": 31
+                          },
+                          {
+                            "x": 439,
+                            "y": 31
+                          },
+                          {
+                            "x": 439,
+                            "y": 478
+                          },
+                          {
+                            "x": 56,
+                            "y": 478
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "boneca3",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "bonreca_amarela.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 57,
+                            "y": 30
+                          },
+                          {
+                            "x": 439,
+                            "y": 30
+                          },
+                          {
+                            "x": 439,
+                            "y": 478
+                          },
+                          {
+                            "x": 57,
+                            "y": 478
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "estante",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "estante-removebg-preview.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 62
+                          },
+                          {
+                            "x": 149,
+                            "y": 62
+                          },
+                          {
+                            "x": 149,
+                            "y": 436
+                          },
+                          {
+                            "x": 0,
+                            "y": 436
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "pipa1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "pipa_verde_rosa.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 90,
+                            "y": 97
+                          },
+                          {
+                            "x": 482,
+                            "y": 97
+                          },
+                          {
+                            "x": 482,
+                            "y": 462
+                          },
+                          {
+                            "x": 90,
+                            "y": 462
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "pipa2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "pipa_verde_amarela.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 90,
+                            "y": 97
+                          },
+                          {
+                            "x": 482,
+                            "y": 97
+                          },
+                          {
+                            "x": 482,
+                            "y": 462
+                          },
+                          {
+                            "x": 90,
+                            "y": 462
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "pipa3",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "pipa_azul_vermelha.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 90,
+                            "y": 97
+                          },
+                          {
+                            "x": 482,
+                            "y": 97
+                          },
+                          {
+                            "x": 482,
+                            "y": 462
+                          },
+                          {
+                            "x": 90,
+                            "y": 462
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -4488,6 +6230,51 @@
           },
           {
             "objectName": "Tiao"
+          },
+          {
+            "objectName": "Balcão"
+          },
+          {
+            "objectName": "carro1"
+          },
+          {
+            "objectName": "carro2"
+          },
+          {
+            "objectName": "carro3"
+          },
+          {
+            "objectName": "carro4"
+          },
+          {
+            "objectName": "bolagude1"
+          },
+          {
+            "objectName": "bolagude2"
+          },
+          {
+            "objectName": "bolagude3"
+          },
+          {
+            "objectName": "boneca1"
+          },
+          {
+            "objectName": "boneca2"
+          },
+          {
+            "objectName": "boneca3"
+          },
+          {
+            "objectName": "estante"
+          },
+          {
+            "objectName": "pipa1"
+          },
+          {
+            "objectName": "pipa2"
+          },
+          {
+            "objectName": "pipa3"
           }
         ]
       },
@@ -4728,7 +6515,7 @@
           "name": "botaoAvancar",
           "persistentUuid": "5d5acb46-56f2-4b60-b22c-4dfc97e09b26",
           "width": 80,
-          "x": 590,
+          "x": 690,
           "y": 460,
           "zOrder": 2,
           "numberProperties": [],
@@ -4745,7 +6532,7 @@
           "name": "botaoVoltar",
           "persistentUuid": "4bcaf67b-ec17-428e-90b5-bb83f9632980",
           "width": 80,
-          "x": 130,
+          "x": 30,
           "y": 460,
           "zOrder": 3,
           "numberProperties": [],
@@ -4756,14 +6543,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 600,
+          "height": 800,
           "keepRatio": true,
           "layer": "",
           "name": "cidade_normal",
           "persistentUuid": "39ab7624-4f6d-430d-aa32-bcc5a4b596af",
-          "width": 600,
-          "x": 100,
-          "y": 0,
+          "width": 800,
+          "x": 0,
+          "y": -100,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -5012,7 +6799,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.875,
+        "zoomFactor": 0.7921344117998221,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -5022,14 +6809,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 0,
-          "height": 600,
+          "height": 800,
           "keepRatio": true,
           "layer": "",
           "name": "SaladeAula",
           "persistentUuid": "570c824c-297d-4a5a-a619-ba1348cf4ad7",
-          "width": 600,
-          "x": 100,
-          "y": 0,
+          "width": 800,
+          "x": 0,
+          "y": -150,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -5045,7 +6832,7 @@
           "name": "botaoVoltar",
           "persistentUuid": "ef550ea8-a8bd-41b4-b544-62859791fbc6",
           "width": 80,
-          "x": 130,
+          "x": 30,
           "y": 460,
           "zOrder": 3,
           "numberProperties": [],
@@ -5062,9 +6849,77 @@
           "name": "botaoAvancar",
           "persistentUuid": "eca35291-c006-4d00-852a-eeae08b0d4dd",
           "width": 80,
-          "x": 590,
+          "x": 690,
           "y": 460,
           "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 343.78881987577637,
+          "keepRatio": true,
+          "layer": "",
+          "name": "personagem1",
+          "persistentUuid": "7483ed2e-cc27-43ae-8d56-34688ffd76a8",
+          "width": 90,
+          "x": 165,
+          "y": 185,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 325.8659217877095,
+          "keepRatio": true,
+          "layer": "",
+          "name": "personagem3",
+          "persistentUuid": "24f75766-40d8-4227-a7ad-9b9a808ee2b3",
+          "width": 95,
+          "x": 257,
+          "y": 205,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 367.74834437086093,
+          "keepRatio": true,
+          "layer": "",
+          "name": "personagem4",
+          "persistentUuid": "3cbba3a0-2436-43ab-9cf1-01458327656f",
+          "width": 90,
+          "x": 353,
+          "y": 161,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 354.0909090909091,
+          "keepRatio": true,
+          "layer": "",
+          "name": "personagem2",
+          "persistentUuid": "9629d5d4-7a83-4522-b3ee-848b67e32b29",
+          "width": 95,
+          "x": 445,
+          "y": 175,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5260,6 +7115,11 @@
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ],
       "layers": [
